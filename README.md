@@ -1,4 +1,6 @@
 ### 👋 你好，我是阴中阳
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />
+
 [![微信](https://img.shields.io/badge/微信-18668991953-red.svg "微信")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "微信")
 [![Mail Badge](https://img.shields.io/badge/-zhao95@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhao95@outlook.com)](mailto:zhao95@outlook.com)
 
